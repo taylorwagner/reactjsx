@@ -1,7 +1,7 @@
 const App = () => (
     <div>
       <FirstComponent />
-      <NamedComponent />
+      <NamedComponent name="Taylor" />
     </div>
 )
   
