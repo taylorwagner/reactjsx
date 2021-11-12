@@ -4,6 +4,3 @@ const App = () => (
       <NamedComponent name="Taylor" />
     </div>
 )
-  
-  
-ReactDOM.render(<App />, document.getElementById("root"));
